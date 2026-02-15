@@ -4,6 +4,8 @@ Changeset Viewer plugin allows you to visualize one or many changesets in JOSM!
 
 ![changeset-viewer](https://user-images.githubusercontent.com/1152236/35937653-deae6742-0c14-11e8-84a0-d65039afac45.gif)
 
+## Activation
+After installation, activate via menu: Windows > Changeset Viewer or press: `CTRL + ALT+SHIFT + T`.
 
 ## How it works?
 
